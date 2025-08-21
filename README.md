@@ -1,2 +1,4 @@
+#REPOSITORIO MANUEL OSVALDO MALDONADO CRUZ
+tareas de la DFT
 # src
-tareas de DFT
+tareas 1 y 2 de DFT
